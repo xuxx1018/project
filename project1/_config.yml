@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Oscar 
+title: Oscar Winners
 subtitle:
 description:
 author: John Doe
@@ -68,4 +68,5 @@ theme: hexo-theme-landfarz
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: heroku 
+  repo: https://git.heroku.com/intense-caverns-97493.git
